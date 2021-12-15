@@ -1,1 +1,3 @@
-# sensors-acceletometor
+# Tugas Pemrograman Web Mobile
+# NIM : 19.01.53.0106
+# Nama : Miftahul Rizki Al Fajri
